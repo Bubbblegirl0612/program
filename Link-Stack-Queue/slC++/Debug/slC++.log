@@ -1,0 +1,3 @@
+﻿  slC++.cpp
+d:\图论\slc++\slc++\slc++.cpp(92): warning C4715: “CSeqStack::select”: 不是所有的控件路径都返回值
+  slC++.vcxproj -> D:\图论\slC++\Debug\slC++.exe

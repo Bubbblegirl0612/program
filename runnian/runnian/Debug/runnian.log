@@ -1,0 +1,4 @@
+﻿  源exercise.cpp
+text.obj : error LNK2005: _main 已经在 judge.obj 中定义
+源exercise.obj : error LNK2005: _main 已经在 judge.obj 中定义
+D:\图论\runnian\Debug\runnian.exe : fatal error LNK1169: 找到一个或多个多重定义的符号

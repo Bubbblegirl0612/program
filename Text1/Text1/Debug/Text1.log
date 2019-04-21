@@ -1,0 +1,6 @@
+﻿  atoi.cpp
+d:\图论\text1\text1\atoi.cpp(19): warning C4305: “=”: 从“int”到“char”截断
+d:\图论\text1\text1\atoi.cpp(19): warning C4309: “=”: 截断常量值
+d:\图论\text1\text1\atoi.cpp(20): warning C4305: “=”: 从“int”到“char”截断
+d:\图论\text1\text1\atoi.cpp(20): warning C4309: “=”: 截断常量值
+d:\图论\text1\text1\atoi.cpp(26): error C4700: 使用了未初始化的局部变量“s1”
